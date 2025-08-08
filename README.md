@@ -54,8 +54,8 @@ README.md        # This file
 
 ### Clone & install
 ```bash
-git clone https://github.com/Omartfz/pathdependent-volatility.git
-cd pathdependent-volatility
+git clone https://github.com/Omartfz/volatility-path-dependence.git
+cd volatility-path-dependence
 pip install -r requirements.txt
 ```
 
