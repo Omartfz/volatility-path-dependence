@@ -1,5 +1,4 @@
 # volatility-path-dependence
-# TSPL VIX Modeling
 
 Modular Python implementation of the implied volatility model inspired by  
 **Guyon & Lekeufack (2023) — _"Volatility is Mostly Path-Dependent"_**
