@@ -29,17 +29,6 @@ This simple approach:
 
 ---
 
-## Project Structure
-
-.
-├── data.py # Data downloading & preprocessing (Yahoo Finance)
-├── features.py # TSPL kernel construction & feature computation (R₁, R₂)
-├── model.py # Linear regression on R₁ and √R₂
-├── baseline.py # Realized volatility benchmark model
-├── optimization.py # Kernel parameter optimization (Powell method)
-├── visualization.py # Plots: kernels, fits, residuals, etc.
-└── demo.ipynb # Example workflow & key result reproduction
----
 
 ## Installation
 
