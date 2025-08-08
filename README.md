@@ -83,7 +83,7 @@ The notebook downloads market data, computes TSPL features, calibrates the model
 
 ## References
 
-- J.-P. Guyon & F. Lekeufack (2023). [_Volatility is Mostly Path-Dependent_]([https://doi.org/10.1080/14697688.2023.2221281]).
+- J.-P. Guyon & F. Lekeufack (2023). [_Volatility is Mostly Path-Dependent_](https://doi.org/10.1080/14697688.2023.2221281).
 
 
 ---
